@@ -4,7 +4,18 @@
 ### Languages and Tools:
 
 
-### Stats and Contributions:
+### Open Source Contributions and Stats:
+<details>	
+  <summary><b>:handshake: Contributions</b></summary>
+  <br />
+  <li>
+    <a href="https://github.com/NDCLab/instruments">NDCLab - Instruments</a> - Identified and corrected issues with bash and batch scripts that prevented proper setup of the Docker container. Implemented corrections and updated the associated README.
+  </li>
+  <li>
+    <a href="https://github.com/dotzenith/lovesay">Lovesay</a> - Refactored code to allow cli arguments that span more than five lines while maintaining proper alignment on output (Python).
+  </li>
+</details>
+
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
