@@ -58,6 +58,15 @@ Currently, I am focusing on developing web applications with Python and Django. 
   </tr>
 </table>
 
+## Personal Projects
+
+### BrandishSEO
+![BrandishSEO](/assets/projects/Brandishseo_cropped.png)
+
+Developed and deployed a website for my SEO company with Python and the Django framework. Technologies incorporated include Amazon’s CloudFront CDN, Celery, Stripe, BeautifulSoup, and more.
+
+**Repo:** https://github.com/dorian-adams/BrandishSEO-Demo
+
 ### Open Source Contributions and Stats:
 <details>	
   <summary><b>:handshake: Contributions</b></summary>
@@ -81,6 +90,4 @@ Currently, I am focusing on developing web applications with Python and Django. 
 **dorian-adams/dorian-adams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
 -->
