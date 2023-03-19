@@ -67,6 +67,14 @@ Developed and deployed a website for my SEO company with Python and the Django f
 
 **Repo:** https://github.com/dorian-adams/BrandishSEO-Demo
 
+<details>
+  <summary><b>More Projects</b></summary>
+  <br />
+  <li>
+  <a href="https://github.com/dorian-adams/CRUD-Grazioso-JavaFX">Java CRUD App</a> - Developed using MVC architecture.
+  </li>
+</details>
+
 ### Open Source Contributions and Stats:
 <details>	
   <summary><b>:handshake: Contributions</b></summary>
