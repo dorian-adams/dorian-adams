@@ -3,7 +3,7 @@ Hi! I’m a third-year Computer Science major with a concentration in Software E
 
 Currently, I am focusing on developing web applications with Python and Django. However, I am well-versed in many programming languages and can quickly learn new ones.
 
-- 🔭 I’m currently working on [TunerGuy](https://github.com/dorian-adams/TunerGuy), a blog for automotive enthusiasts. 
+- 🔭 I’m currently working on [TunerGuy](https://github.com/dorian-adams/tuner-guy), a blog for automotive enthusiasts. 
 - 🌱 I’m currently enhancing my proficiency with JavaScript and Docker.
 - 👯 I’m looking to collaborate on Python or Java projects.
 - 🤔 I’m looking for help with: I'm always open to feedback. Please let me know if you’re browsing my repos and notice anything I could improve. 
