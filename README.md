@@ -1,5 +1,4 @@
 ## Hi! 👋 I'm Dorian Adams
-Hi! I’m a third-year Computer Science major with a concentration in Software Engineering. I am passionate about creating innovative applications and love facing new challenges. 
 
 Currently, I am focusing on developing web applications with Python and Django. However, I am well-versed in many programming languages and can quickly learn new ones.
 
@@ -63,7 +62,7 @@ Currently, I am focusing on developing web applications with Python and Django. 
 ### BrandishSEO
 ![BrandishSEO](/assets/projects/Brandishseo_cropped.png)
 
-Developed and deployed a website for my SEO company with Python and the Django framework. Technologies incorporated include Amazon’s CloudFront CDN, Celery, Stripe, BeautifulSoup, and more.
+Developed and deployed a website for my SEO company, BrandishSEO, using Python and the Django framework. The site features SEO tools, a project management platform, and secure payment processing through Stripe.
 
 **Repo:** https://github.com/dorian-adams/BrandishSEO-Demo
 
