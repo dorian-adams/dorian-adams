@@ -1,13 +1,8 @@
 ## Hi! 👋 I'm Dorian Adams
 
-Currently, I am focusing on developing web applications with Python and Django. However, I am well-versed in many programming languages and can quickly learn new ones.
-
-- 🔭 I’m currently working on [TunerGuy](https://github.com/dorian-adams/tuner-guy), a blog for automotive enthusiasts. 
-- 🌱 I’m currently enhancing my proficiency with JavaScript and Docker.
-- 👯 I’m looking to collaborate on Python or Java projects.
-- 🤔 I’m looking for help with: I'm always open to feedback. Please let me know if you’re browsing my repos and notice anything I could improve. 
+- 🚀 I am passionate about using code to fuel entrepreneurship and express creativity.
+- 💻 Currently working on exciting web applications using Python and Django to build modern online communities and develop innovative SEO services.
 - 📫 How to reach me: hi@dacoded.com
-- ⚡ Fun fact: Kobe Bryant was better than Lebron James.
 
 ### Core Languages and Tools:
 <table>
@@ -32,6 +27,10 @@ Currently, I am focusing on developing web applications with Python and Django. 
       <img height="50" src="/assets/languages/javascript.svg" alt="javascript">
       <br /><b>JavaScript</b>
     </td>
+    <td align="center">
+      <img height="50" src="/assets/frameworks/bootstrap-resize.png" alt="bootstrap">
+      <br /><b>Bootstrap</b>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -54,6 +53,10 @@ Currently, I am focusing on developing web applications with Python and Django. 
       <img height="50" src="/assets/tools/docker.svg" alt="docker">
       <br />Docker
     </td>
+    <td align="center">
+      <img height="50" src="/assets/cloud/amazon.svg" alt="aws">
+      <br />AWS
+    </td>
   </tr>
 </table>
 
@@ -62,7 +65,7 @@ Currently, I am focusing on developing web applications with Python and Django. 
 ### BrandishSEO
 ![BrandishSEO](/assets/projects/Brandishseo_cropped.png)
 
-Developed and deployed a website for my SEO company, BrandishSEO, using Python and the Django framework. The site features SEO tools, a project management platform, and secure payment processing through Stripe.
+BrandishSEO is a Search Engine Optimization (SEO) platform that leverages Python and Django to simplify SEO strategy implementation for small businesses. It features a tool to analyze webpages and provide actionable recommendations, along with a project management platform to make strategy implementation a breeze.
 
 **Repo:** https://github.com/dorian-adams/BrandishSEO-Demo
 
@@ -70,28 +73,20 @@ Developed and deployed a website for my SEO company, BrandishSEO, using Python a
   <summary><b>More Projects</b></summary>
   <br />
   <li>
-  <a href="https://github.com/dorian-adams/CRUD-Grazioso-JavaFX">Java CRUD App</a> - Developed using MVC architecture.
+  <a href="https://github.com/dorian-adams/CRUD-Grazioso-JavaFX">JavaFX record‑management app with CRUD operations via JDBC and MySQL</a>.
+  </li>
+  <li>
+  <a href="https://github.com/dorian-adams/tuner-guy">Media-rich content hub and blog for automotive enthusiasts</a>.
   </li>
 </details>
 
-### Open Source Contributions and Stats:
-<details>	
-  <summary><b>:handshake: Contributions</b></summary>
-  <br />
-  <li>
-    <a href="https://github.com/NDCLab/instruments">NDCLab - Instruments</a> - Identified and corrected issues with bash and batch scripts that prevented proper setup of the Docker container. Implemented corrections and updated the associated README.
-  </li>
-  <li>
-    <a href="https://github.com/dotzenith/lovesay">Lovesay</a> - Refactored code to allow cli arguments that span more than five lines while maintaining proper alignment on output (Python).
-  </li>
-</details>
+## Certifications
+### AWS Certified Cloud Practitioner
+<img src="/assets/certs/aws-cloud-practitioner.png" alt="aws" width="200"/>
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dorian-adams&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorian-adams&show_icons=true&hide_border=true&layout=compact"/>
-</details>
+## Open Source Contributor :handshake::
+### Python.org - Python's Official Website
+https://github.com/python/pythondotorg
 
 <!--
 **dorian-adams/dorian-adams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
